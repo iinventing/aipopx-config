@@ -1,0 +1,10 @@
+{
+  "您的_Google_帳號ID_1": {
+    "active": true,
+    "devices": ["DEV_1234567890"]
+  },
+  "您的_Google_帳號ID_2": {
+    "active": false,
+    "devices": []
+  }
+}
