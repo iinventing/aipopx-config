@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "selectors": {
+    "gemini_input": "div[contenteditable='true']",
+    "chat_container": "main"
+  },
+  "flags": {
+    "enableZeroHistory": true,
+    "enableSharedDatabase": true
+  }
+}
