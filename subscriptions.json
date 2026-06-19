@@ -1,10 +1,11 @@
 {
-  "您的_Google_帳號ID_1": {
+  "109876543210123456789": {
     "active": true,
-    "devices": ["DEV_1234567890"]
-  },
-  "您的_Google_帳號ID_2": {
-    "active": false,
-    "devices": []
+    "email": "boss@ai1x.ai",
+    "devices": [
+      "DEV_98",
+      "DEV_110",
+      "DEV_126"
+    ]
   }
 }
